@@ -1,0 +1,6 @@
+{
+  "name": "League Hub",
+  "description": "Native-feeling sports league app with loud condensed display typography, electric lime and periwinkle violet styling, live scoring, interactive 3D tactic arena, fan store, and AI media lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
